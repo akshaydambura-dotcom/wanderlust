@@ -94,4 +94,4 @@ http://localhost:3000
 Akshay Dambura
 B.Tech CSE Student
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/akshaydambura
